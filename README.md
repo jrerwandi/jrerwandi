@@ -1,5 +1,8 @@
 ### Hi there 👋
 I am Julian Reza Erwandi
+## Stats
+
+![Julian Reza Erwandi GitHub stats](https://github-readme-stats.vercel.app/api?username=jrerwandi&hide=contribs,prs)
 
 
 <!--
@@ -16,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
