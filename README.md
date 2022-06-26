@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+i am Julian Reza Erwandi
 <!--
 **jrerwandi/jrerwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
