@@ -5,7 +5,7 @@ I am Julian Reza Erwandi
 [![Gmail Badge](https://img.shields.io/badge/-jrerwandi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jrerwandi@gmail.com)](mailto:jrerwandi@gmail.com)
 ## Stats
 
-![Julian Reza Erwandi GitHub stats](https://github-readme-stats.vercel.app/api?username=jrerwandi&show_icons=true&theme=dark&,prs)
+![Julian Reza Erwandi GitHub stats](https://github-readme-stats.vercel.app/api?username=jrerwandi&theme=dark&,prs)
 
 <!--
 <p>
