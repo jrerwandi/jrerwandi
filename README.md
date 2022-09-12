@@ -15,7 +15,7 @@ I am Julian Reza Erwandi
 </p>
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrerwandi&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrerwandi&layout=compact) -->
 
 <!--
 **jrerwandi/jrerwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
