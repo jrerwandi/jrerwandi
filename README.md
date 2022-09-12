@@ -4,9 +4,9 @@ I am Julian Reza Erwandi
 [![Linkedin Badge](https://img.shields.io/badge/-JulianRezaErwandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jr-erwandi/)](https://www.linkedin.com/in/jr-erwandi/)
 [![Gmail Badge](https://img.shields.io/badge/-jrerwandi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jrerwandi@gmail.com)](mailto:jrerwandi@gmail.com)
 ## Stats
-<!--
+
 ![Julian Reza Erwandi GitHub stats](https://github-readme-stats.vercel.app/api?username=jrerwandi&hide=contribs,prs)
--->
+
 <p>
     <a href="https://gitstats.me/jrerwandi" target="_blank"> 
         <img src="https://github-readme-stats.vercel.app/api?username=jrerwandi&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
