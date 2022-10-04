@@ -3,6 +3,7 @@ I am Julian Reza Erwandi
 
 [![Linkedin Badge](https://img.shields.io/badge/-JulianRezaErwandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jr-erwandi/)](https://www.linkedin.com/in/jr-erwandi/)
 [![Gmail Badge](https://img.shields.io/badge/-jrerwandi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jrerwandi@gmail.com)](mailto:jrerwandi@gmail.com)
+[![@jrerwandi's Holopin board](https://holopin.io/api/user/board?user=jrerwandi)](https://holopin.io/@jrerwandi)
 ## Stats
 
 ![Julian Reza Erwandi GitHub stats](https://github-readme-stats.vercel.app/api?username=jrerwandi&theme=dark&,prs)
